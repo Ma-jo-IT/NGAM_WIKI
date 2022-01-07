@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<tr role=\"row\" class=\"even\">\n          <td class=\"sorting_1\"><a href=\"https://www.tf1.fr/tf1/ici-tout-commence\" target=\"_blank\" title=\"\"><img src=\"img/posters/OTH.jpg\" width=\"150px\" /></a></td>\n          <!--Posters-->\n          <td>‎Série</td>\n          <!--Type-->\n          <td>Teen drama</td>\n          <!--Genre-->\n          <td></td>\n          <!--Autres genres-->\n          <td>Les frères Scott(One Tree Hill)</td>\n          <!--Noms-->\n          <td><a href=\"\" title=\"\" target=\"_blank\"><img src=\"img\\assets\\logos\\channels\\en\\color\\cwtv.png\" width=\"80px\" /></a></td>\n          <!--Chaîne de diffusion-->\n          <td><input id=\"number\" type=\"number\" size=\"1\" value=\"01\"></td>\n          <!--Saisons-->\n          <td><input id=\"number\" type=\"number\" size=\"1\" value=\"28\"></td>\n          <!--Episodes-->\n          <td><input id=\"date\" type=\"date\" value=\"2003-09-23\"></td>\n          <!--Date de diffusion-->\n          <td><input id=\"date\" type=\"date\" value=\"2012-04-04\"></td>\n          <!--Date de fin-->\n          <td>\n            <figure>\n              <img src=\"img/icons/diffusion_grey.png\" width=\"28px\" />\n              <a href=\"\" target=\"_blank\" title=\"La liste des épisodes par saisons\"><img src=\"img/icons/play_grey.png\" width=\"28px\" /></a>\n              <img src=\"img/icons/pause_grey.png\" width=\"28px\" />\n              <img src=\"img/icons/stop_black.png\" width=\"28px\" />\n            </figure>\n          </td>\n          <!--Contenus-->\n          <td><a href=\"\" target=\"_blank\"></a><br />\n            <a href=\"\" target=\"_blank\"></a><br />\n            <a href=\"\" target=\"_blank\"></a><br />\n            <a href=\"\" target=\"_blank\"></a><br />\n            <a href=\"\" target=\"_blank\"></a><br />\n          </td>\n          <!--Streaming-->\n        </tr>\n        <tr role=\"row\" class=\"odd\">\n          <td class=\"sorting_1\"><a href=\"https://www.bbc.co.uk/programmes/b00vk2lp\" target=\"_blank\" title=\"\"><img src=\"img/posters/ITC.jpg\" width=\"150px\" /></a></td>\n          <!--Posters-->\n          <td>‎Feuilleton télévisé</td>\n          <!--Type-->\n          <td>Soap opera</td>\n          <!--Genre-->\n          <td></td>\n          <!--Autres genres-->\n          <td>Ici tout commence (ITC)</td>\n          <!--Noms-->\n          <td><a href=\"\" title=\"\" target=\"_blank\"><img src=\"img\\assets\\logos\\channels\\fr\\color\\TF1_color.png\" width=\"80px\" /></a></td>\n          <!--Chaîne de diffusion-->\n          <td><input id=\"number\" type=\"number\" size=\"1\" value=\"01\"></td>\n          <!--Saisons-->\n          <td><input id=\"number\" type=\"number\" size=\"1\" value=\"28\"></td>\n          <!--Episodes-->\n          <td><input id=\"date\" type=\"date\" value=\"2020-11-02\"></td>\n          <!--Date de diffusion-->\n          <td><input id=\"date\" type=\"date\" value=\"0000-00-00\"></td>\n          <!--Date de fin-->\n          <td>\n            <figure>\n              <img src=\"img/icons/diffusion_grey.png\" width=\"28px\" />\n              <a href=\"\" target=\"_blank\" title=\"La liste des épisodes par saisons\"><img src=\"img/icons/play_grey.png\" width=\"28px\" /></a>\n              <img src=\"img/icons/pause_grey.png\" width=\"28px\" />\n              <img src=\"img/icons/stop_grey.png\" width=\"28px\" />\n            </figure>\n          </td>\n          <!--Contenus-->\n          <td><a href=\"\" target=\"_blank\"></a><br />\n            <a href=\"\" target=\"_blank\"></a><br />\n            <a href=\"\" target=\"_blank\"></a><br />\n            <a href=\"\" target=\"_blank\"></a><br />\n            <a href=\"\" target=\"_blank\"></a><br />\n          </td>\n          <!--Streaming-->\n        </tr>",
+			"file": "/G/data-bookmarks/Tests.txt",
+			"file_size": 3623,
+			"file_write_time": 132578641037262832,
+			"settings":
+			{
+				"buffer_size": 3531,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ngam.html",
+			"settings":
+			{
+				"buffer_size": 8873,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/MyPJTS/ComNGAM/PageW",
+		"/H/MyPJTS/ComNGAM/PageW/imgs"
+	],
+	"file_history":
+	[
+		"/H/MyPJTS/ComNGAM/PageW/Code_Run_Program.txt",
+		"/G/MyPJTS/ComNGAM/PageW/fonts/fonts.css",
+		"/G/MyPJTS/ComNGAM/PageW/ngam.html",
+		"/G/MyPJTS/ComNGAM/PageW/design/asset.css",
+		"/G/MyPJTS/ComNGAM/PageW/fonts/fontsstyle.css",
+		"/F/data-bookmarks/series.html",
+		"/F/data-bookmarks/js/countdown.js",
+		"/G/data-bookmarks/css/style.css",
+		"/G/data-bookmarks/series.html",
+		"/G/data-bookmarks/css/tooltips.css",
+		"/G/toolsWeb",
+		"/G/data-bookmarks/css/jquery.dataTables.css",
+		"/G/data-bookmarks/Teststxt.html",
+		"/G/CSS et HTML/C/Exemple _ bloc central sans marges, mais avec un contexte de formatage.html",
+		"/G/6 erreurs à ne pas faire sur un site responsive",
+		"/G/Dossiers/Taffbse/FL/TP/MesProjetsWeb/CV/2ème version/assets.css",
+		"/G/Dossiers/Taffbse/FL/TP/MesProjetsWeb/CV/2ème version/cv.html",
+		"/G/Dossiers/Taffbse/FL/TP/MesProjetsWeb/CV/1ère version/cv.html",
+		"/G/Dossiers/Taffbse/FL/TP/MesProjetsWeb/CV/1ère version/assets.css",
+		"/G/Dossiers/Taffbse/FL/TP/MesProjetsWeb/ToolsInternet/toolsWeb",
+		"/D/Dossiers/Taff/FL/MesProjetsWeb/CV/2ème version/cv.html",
+		"/D/Dossiers/Taff/FL/MesProjetsWeb/CV/2ème version/assets.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}",
+			"</ul>",
+			"<ul>",
+			" {",
+			"F8F9FA",
+			">\n",
+			"padding",
+			"the wal",
+			"the wa",
+			"<link rel=\"stylesheet\" href=\"css/tooltips.css\">",
+			"E:\\hp\\Pictures\\img\\",
+			"assets",
+			"E:\\hp\\Pictures\\Assets\\logos\\channels\\fr\\color\\",
+			"Assets/logos/channels/en/tv_channel_icons_pack/color/",
+			"E:\\hp\\Pictures\\assets\\logos\\channels\\en\\tv_channel_icons_pack\\color\\",
+			"E:\\hp\\Pictures\\Assets\\logos\\channels\\en\\tv_channel_icons_pack\\color\\",
+			"/img",
+			"../img",
+			".text1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</ol>",
+			"<ol>",
+			"img\\",
+			"img\\assets",
+			"assets\\logos\\channels\\fr\\color\\",
+			"assets/logos/channels/en/tv_channel_icons_pack/color/",
+			"Assets/logos/channels/en/tv_channel_icons_pack/color/",
+			"img",
+			"/img"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "H:\\MyPJTS\\ComNGAM\\PageW"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/G/data-bookmarks/Tests.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ngam.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8873,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										144,
+										144
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.96875,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\data-bookmarks\\Tests.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

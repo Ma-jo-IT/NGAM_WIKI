@@ -1,0 +1,11 @@
+Tutoriel run un programme
+
+https://www.youtube.com/watch?v=HBeX3jXpW70
+
+Google Chrome
+"C:\Program Files\Google\Chrome\Application\chrome.exe" "$(FULL_CURRENT_PATH)" 
+
+Opera
+"C:\Users\Projet CSCI\AppData\Local\Programs\Opera\launcher.exe" "$(FULL_CURRENT_PATH)"
+
+

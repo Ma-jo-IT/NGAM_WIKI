@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="1">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="114" xOffset="0" scrollWidth="264" startPos="1798" endPos="1798" selMode="0" offset="0" wrapCount="1" lang="CSS" encoding="-1" userReadOnly="no" filename="G:\MyPJTS\ComNGAM\PageW\design\asset.css" backupFilePath="" originalFileLastModifTimestamp="-1080635131" originalFileLastModifTimestampHigh="30871772" mapFirstVisibleDisplayLine="95" mapFirstVisibleDocLine="95" mapLastVisibleDocLine="132" mapNbLine="37" mapHigherPos="1248" mapWidth="108" mapHeight="111" mapKByteInDoc="1" mapWrapIndentMode="1" mapIsWrap="yes" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="576" startPos="197" endPos="197" selMode="0" offset="0" wrapCount="1" lang="CSS" encoding="-1" userReadOnly="no" filename="G:\MyPJTS\ComNGAM\PageW\fonts\fonts.css" backupFilePath="" originalFileLastModifTimestamp="372799278" originalFileLastModifTimestampHigh="30871052" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="38" mapNbLine="38" mapHigherPos="-1" mapWidth="191" mapHeight="114" mapKByteInDoc="0" mapWrapIndentMode="1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0">
+            <File firstVisibleLine="119" xOffset="0" scrollWidth="4992" startPos="8125" endPos="8125" selMode="0" offset="0" wrapCount="2" lang="HTML" encoding="-1" userReadOnly="no" filename="G:\MyPJTS\ComNGAM\PageW\ngam.html" backupFilePath="" originalFileLastModifTimestamp="-2028636940" originalFileLastModifTimestampHigh="30871793" mapFirstVisibleDisplayLine="43" mapFirstVisibleDocLine="22" mapLastVisibleDocLine="56" mapNbLine="35" mapHigherPos="1888" mapWidth="101" mapHeight="105" mapKByteInDoc="17" mapWrapIndentMode="1" mapIsWrap="yes" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="5464" startPos="0" endPos="0" selMode="0" offset="0" wrapCount="1" lang="Normal Text" encoding="-1" userReadOnly="no" filename="G:\Jens Oliver Meiert.txt" backupFilePath="" originalFileLastModifTimestamp="1770952160" originalFileLastModifTimestampHigh="30871770" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="28" mapNbLine="37" mapHigherPos="0" mapWidth="113" mapHeight="111" mapKByteInDoc="1" mapWrapIndentMode="1" mapIsWrap="yes" />
+        </subView>
+    </Session>
+</NotepadPlus>
