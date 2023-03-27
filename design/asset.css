@@ -67,15 +67,18 @@ h2#t1-nav {
 }
 
 .intro,
-h1.t-name,
-h1#bio,
-h2#training,
-h2#exp-pro,
 h3#pol-a,
 p.intro-descr,
 div.p1,
 ul.list-fonct {
   width: 100%;
+}
+
+h1.t-name, 
+h1#bio, 
+h2#training, 
+h2#exp-pro{
+width: 50%;
 }
 
 /* div.thumb p
