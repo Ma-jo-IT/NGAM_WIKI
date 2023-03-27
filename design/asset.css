@@ -74,11 +74,11 @@ ul.list-fonct {
   width: 100%;
 }
 
-h1.t-name, 
-h1#bio, 
-h2#training, 
-h2#exp-pro{
-width: 48%;
+h1.t-name p, 
+h1#bio p, 
+h2#training p, 
+h2#exp-pro p{
+width: 50%;
 }
 
 /* div.thumb p
