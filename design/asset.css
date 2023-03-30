@@ -40,7 +40,12 @@ h3#pol-gea p{
 width: 60%;
 } */
 
-
+h1,
+h2,
+h3,
+p{
+  width: 60%;
+}
 
 h1.full-line {
   width: 100%;
