@@ -68,10 +68,13 @@ h2#t1-nav {
 
 .intro,
 /* h3#pol-a, */
-p.intro-descr,
-div.p1,
 ul.list-fonct {
   width: 100%;
+}
+
+p.intro-descr,
+div.p1{
+  width: 60%;
 }
 
 /* h1.t-name p, 
