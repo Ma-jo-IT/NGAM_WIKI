@@ -40,6 +40,10 @@ h3#pol-gea p{
 width: 60%;
 } */
 
+p{
+  white-space: pre-wrap;   
+}
+
 h1,
 h2,
 h3,
