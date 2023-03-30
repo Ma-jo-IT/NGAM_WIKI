@@ -6,7 +6,7 @@ body {
   box-sizing: border-box;
 }
 
-h1.t-name,
+h1#t-name,
 h1.full-line {
   font-size: 30px;
   padding: 0;
@@ -24,6 +24,20 @@ h3 {
 
 h2#t1-nav {
   border-bottom: none;
+}
+
+h1#t-name,
+h1#bio,
+h1#bio p,
+h2#training,
+h2#training p,
+h2#exp-pro,
+h2#exp-pro p,
+h3#pol-a,
+h3#pol-a p,
+h3#pol-gea,
+h3#pol-gea p{
+width: 60%;
 }
 
 h1.full-line {
@@ -67,19 +81,21 @@ h2#t1-nav {
 }
 
 .intro,
-h3#pol-a,
+/* h3#pol-a, */
 p.intro-descr,
 div.p1,
 ul.list-fonct {
   width: 100%;
 }
 
-h1.t-name p, 
+/* h1.t-name p, 
 h1#bio p, 
 h2#training p, 
 h2#exp-pro p{
 width: 48%;
-}
+} */
+
+
 
 /* div.thumb p
 {
