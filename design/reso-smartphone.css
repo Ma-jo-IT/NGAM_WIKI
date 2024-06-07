@@ -1,71 +1,28 @@
-@media screen and (max-width: 1000px) {
-*{
-  box-sizing: border-box;
-} 
+/* Rétablir le champ de recherche sur les grands écrans */
 
-.content-container/*:not(div.box-catlinks)*/ {
-    background: #ffffff;
-    margin: 0px auto;
-    /* padding: 15px; */
+  /* Masquer le champ de recherche sur les petits écrans */
+@media screen and (max-width: 768px) {
+	.zone-search {
+	  position: relative;
+	  height: 40px;
+	}
+  
+	#site_search {
+	  display: none;
+	}
+  
+	.search-icon {
+	  position: absolute;
+	  top: 0;
+	  right: 0;
+	  bottom: 0;
+	  left: 0;
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	  background-color: #f5f5f5;
+	  border: none;
+	  cursor: pointer;
+	}
   }
-
-  .content-container,
-  .intro,
-  h1.t-name,
-  h1#bio,
-  h2#training,
-  h2#exp-pro,
-  h3#pol-a,
-  h3#fonct,
-  h3#pol-gea,
-  p.intro-descr,
-  div.p1,
-  .sum,
-  ul.list-fonct {
-    width: 100%;
-  }
-
-  /*Tableau de droite*/
-
-  .sidebar-right {
-    width: auto;
-    position: relative;
-    top: 5px;
-    left: -15px;
-  }
-
-  .tb-right tr {
-    display: table-row;
-    vertical-align: inherit;
-    border-color: inherit;
-  }
-
-  /*.tb-right tr.entete{
-      background-color:#4682B4;
-      color:#FFFFFF;
-  }*/
-
-  .tb-right {
-    display: block;
-    background: #f9f9f9;
-    color: #000;
-    font-size: 90%;
-    line-height: 1.2em;
-    float: left;
-    clear: left;
-    /* margin: 0 0 0.5em 1em; */
-    width: 100%;
-    border: 1px solid #aaa;
-    /* border-spacing: 5px; */
-    margin-bottom: 20px;
-  }
-
-  div.p-right {
-    margin: auto;
-  }
-
-  article#left_side {
-    margin: 5px auto;
-    width: 100%;
-  }
-}
+  
